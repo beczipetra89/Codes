@@ -1,3 +1,7 @@
+%% Author: Petra Beczi
+%% Email: beczipetra89@gmail.com
+%% www.profilrestauranger.se parser
+
 -module(parser_pr).
 -compile(export_all).
 
